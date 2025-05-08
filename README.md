@@ -32,10 +32,10 @@ Additionally, you might find it helpful to install a proper text editor. I recom
 
 Suggested readings refer to the Christensen textbook unless otherwise noted.
 
-| Week | Title | Readings |
-|-------------------|----------|--------|
-| 01 | [intro_to_the_course](files/01-intro_to_the_course.pptx) | Chapter 1, section 1 |
-| 02 | [worldwide_databases](files/02-worldwide_databases.pptx) | Chapter 3 |
+| Week | Title | Readings | Quiz |
+|----------|---------|----------|--------|
+| 01 | [intro_to_the_course](files/01-intro_to_the_course.pptx) | Chapter 1, section 1 | - |
+| 02 | [worldwide_databases](files/02-worldwide_databases.pptx) | Chapter 3 | [quiz](quizzes/02-worldwide_databases.md) |
 | 03 | [jsw_introToLinux](files/03-jsw_introToLinux.pptx) | Chapter 1, sections 3 through 5. [UCDavis bootcamp](files/03-Linux_boot_camp.pdf). |
 | 04 | [sequencing_formats](files/04-sequencing_formats.pptx) | Chapter 2, section 4 |
 | 05 | [installation_of_software](files/05-installation_of_software.pptx) | <https://astrobiomike.github.io/unix/conda-intro> |
