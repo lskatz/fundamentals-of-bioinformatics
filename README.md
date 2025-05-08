@@ -1,6 +1,6 @@
 # fundamentals-of-bioinformatics
 
-Greetings, I gave this class for several semesters at Georgia State University, and I wanted to memorialize it here.
+Greetings, I gave this class for several semesters at Georgia State University, and I wanted to memorialize it here, as it was in Spring 2025.
 
 ## Course outcomes
 
@@ -10,7 +10,7 @@ In addition to bioinformatics, this course will also touch on how bioinformatics
 
 ## Additional resources
 
-* Christensen, “Introduction to Bioinformatics in Microbiology,” 2023 (second edition)
+* Christensen, [Introduction to Bioinformatics in Microbiology](https://a.co/d/6LzF0Oe), 2023 (second edition)
 * Rob Edward’s Computational Genomics Manual 
   * Website <https://linsalrob.github.io/ComputationalGenomicsManual/>
   * Rob Edward’s YouTube playlist <https://www.youtube.com/playlist?list=PLpPXw4zFa0uLMHwSZ7DMeLGjIUgo1IBbn>
