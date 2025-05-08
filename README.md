@@ -37,8 +37,8 @@ Suggested readings refer to the Christensen textbook unless otherwise noted.
 | 01 | [intro_to_the_course](files/01-intro_to_the_course.pptx) | Chapter 1, section 1 | - |
 | 02 | [worldwide_databases](files/02-worldwide_databases.pptx) | Chapter 3 | [quiz](quizzes/02-worldwide_databases.md) |
 | 03 | [introToLinux](files/03-jsw_introToLinux.pptx) | Chapter 1, sections 3 through 5. [UCDavis bootcamp](files/03-Linux_boot_camp.pdf). | [quiz](quizzes/03-jsw_introToLinux.md) |
-| 04 | [sequencing_formats](files/04-sequencing_formats.pptx) | Chapter 2, section 4 |
-| 05 | [installation_of_software](files/05-installation_of_software.pptx) | <https://astrobiomike.github.io/unix/conda-intro> |
+| 04 | [sequencing_formats](files/04-sequencing_formats.pptx) | Chapter 2, section 4 | [quiz](quizzes/04-sequencing_formats.md) |
+| 05 | [installation_of_software](files/05-installation_of_software.pptx) | <https://astrobiomike.github.io/unix/conda-intro>  |
 | 06 | [sequencing_instruments](files/06-sequencing_instruments.pptx) | Chapter 2 |
 | 07 | [assembly](files/07-assembly.pptx) | Chapter 2, sections 2-3 |
 | 08 | [Genome_annotation_2024_revised](files/08-Genome_annotation_2024_revised.pptx) | Chapter 2, section 5 |
