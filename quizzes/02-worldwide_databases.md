@@ -51,9 +51,11 @@ Answer in 1-3 sentences.
 
 Which three organizations are part of the INSDC collaboration?
 
-<input type="text" /><br />
-<input type="text" /><br />
-<input type="text" />
+<div>
+    <input type="text" /><br />
+    <input type="text" /><br />
+    <input type="text" />
+</div>
 
 ## Section 3
 
