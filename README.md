@@ -48,3 +48,7 @@ Suggested readings refer to the Christensen textbook unless otherwise noted.
 | 12 | [genomic_epidemiology](files/12-genomic_epidemiology.pptx) | Chapter 11; [Stevens et al 2022](https://doi.org/10.4315/JFP-21-437) |
 | 13 | amplicon metagenomics | [pptx not shown] Chapter 9 |
 | 14 | [shotgunmetagenomics](files/14-metagenomics.pptx) | Chapter 9 |
+
+## License
+
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/lskatz/fundamentals-of-bioinformatics">Fundamentals of Bioinformatics</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://lskatz.github.io">Lee Katz</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution-NonCommercial 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""></a></p>
