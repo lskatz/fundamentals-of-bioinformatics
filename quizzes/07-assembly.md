@@ -69,4 +69,64 @@ Assemble the genome of the reads you downloaded.  Some of the answers in this se
 
 ### Question 8
 
-How do you view what other parameters are available in shovill (ie, the usage)?
+How do you view what other parameters are available in shovill (ie, the usage)? 
+
+- [ ] `which shovill`
+- [ ] `ls shovill`
+- [ ] `shovill --what`
+- [ ] `ls -l shovill`
+- [ ] `shovill --help`
+
+### Question 9
+
+What is the command for assembling the genome such that you get an output directory of $SRR.shovill?
+
+- [ ] `shovill --R1 $SRR.reads/*_1.fastq.gz --R2 $SRR.reads/*_2.fastq.gz --cpus 1 > $SRR.shovill `
+- [ ] `shovill $SRR.reads/*_1.fastq.gz $SRR.reads/*_2.fastq.gz --outdir $SRR.shovill --cpus 1`
+- [ ] `shovill *.fastq.gz --outdir $SRR.shovill --cpus 1`
+- [ ] `shovill --R1 $SRR.reads/*_1.fastq.gz --R2 $SRR.reads/*_2.fastq.gz --outdir $SRR.shovill --cpus 1`
+
+### Question 10
+
+What option would you have used to change the underlying assembler to skesa instead of spades?  Use double dashes as needed; use a single space between words.  The answer will start with a double dash and will not start with the word 'shovill.'  The word 'skesa' will appear in the answer too.
+
+`_____`
+
+### Question 11
+
+How would you specify using 4 CPUs in shovill?  This answer also starts with a double dash and contains the number 4.  Separate words with a single space.
+
+`_____`
+
+### Question 12
+
+After your assembly completes, what is your assembly filename?  Specify the filename without the directory. Hint: the filename starts with a "c."  For example, if the assembly were located in ~/my/directory/assembly.fasta, the answer would be "assembly.fasta"
+
+`_____`
+
+## QC the assembly
+
+### Question 13 
+
+How many contigs do you have in your assembly?  Round to the nearest 50.  For example, if you have 249 contigs, the answer is 250.  
+
+`_____`
+
+### Question 14
+
+Which command would be helpful in determining the number of contigs in your assembly?  Each contig is a fasta entry starting with `>`
+
+- [ ] `cd ~`
+- [ ] `rm -v`
+- [ ] `grep -c`
+- [ ] `ls -l`
+
+### Question 15
+
+What is the name of the metric that tells you the contig size, where half the genome size is contained in that contig size or greater?
+
+* median contig size
+* grep
+* N50
+* N90
+* average contig size
