@@ -2,6 +2,10 @@
 
 Greetings, I gave this class for several semesters at Georgia State University, and I wanted to memorialize it here, as it was in Spring 2025.
 
+## For the impatient
+
+[Jump down to the agenda](#agenda).
+
 ## Course outcomes
 
 Bioinformatics is an intersection between statistics, molecular biology, and computer science. Learning bioinformatics will have different meanings depending on your background. Advancing yourself in all three of these fields will aid in your success. However, many other skills will help you here, and so success can also come in the forms of learning other related skills.
