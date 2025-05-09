@@ -41,13 +41,13 @@ Suggested readings refer to the Christensen textbook unless otherwise noted.
 | 05 | [installation_of_software](files/05-installation_of_software.pptx) | <https://astrobiomike.github.io/unix/conda-intro>  | [quiz](quizzes/05-installation_of_software.md) | 
 | 06 | [sequencing_instruments](files/06-sequencing_instruments.pptx) | Chapter 2 | [quiz](quizzes/06-sequencing_instruments.md) |
 | 07 | [assembly](files/07-assembly.pptx) | Chapter 2, sections 2-3 | [quiz](quizzes/07-assembly.md) |
-| 08 | [Genome_annotation_2024_revised](files/08-Genome_annotation_2024_revised.pptx) | Chapter 2, section 5 |
-| 09 | [sequence_querying](files/09-sequence_querying.pptx) | Chapter 4 |
-| 10 | [multiple_sequence_alignment](files/10-multiple_sequence_alignment.pptx) | Chapter 6 |
-| 11 | [phylogeny](files/11-phylogeny.pptx) | Chapter 4 |
-| 12 | [genomic_epidemiology](files/12-genomic_epidemiology.pptx) | Chapter 11; [Stevens et al 2022](https://doi.org/10.4315/JFP-21-437) |
-| 13 | amplicon metagenomics | [pptx not shown] Chapter 9 |
-| 14 | [shotgunmetagenomics](files/14-metagenomics.pptx) | Chapter 9 |
+| 08 | [Genome_annotation_2024_revised](files/08-Genome_annotation_2024_revised.pptx) | Chapter 2, section 5 | [quiz](quizzes/08-Genome_annotation_2024_revised.md) |
+| 09 | [sequence_querying](files/09-sequence_querying.pptx) | Chapter 4 | [quiz](quizzes/09-sequence_querying.md) |
+| 10 | [multiple_sequence_alignment](files/10-multiple_sequence_alignment.pptx) | Chapter 6 | [quiz](quizzes/10-multiple_sequence_alignment.md) |
+| 11 | [phylogeny](files/11-phylogeny.pptx) | Chapter 4 | [quiz](quizzes/11-phylogeny.md) |
+| 12 | [genomic_epidemiology](files/12-genomic_epidemiology.pptx) | Chapter 11; [Stevens et al 2022](https://doi.org/10.4315/JFP-21-437) | [quiz](quizzes/12-genomic_epidemiology.md) |
+| 13 | amplicon metagenomics | [pptx not shown] Chapter 9 |  |
+| 14 | [shotgunmetagenomics](files/14-metagenomics.pptx) | Chapter 9 | [quiz](quizzes/14-metagenomics.md) |
 
 ## License
 
