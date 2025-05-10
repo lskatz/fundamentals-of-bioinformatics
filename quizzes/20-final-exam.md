@@ -183,3 +183,4 @@ Why do we care about MLST?
 - It looks flashy and gives us another talking point on slides.
 - It gives us an idea of whether any two isolates are related.
 - It allows us to completely describe a genome. Because it is totally redundant with the information in the genome assembly, we can throw it out and just talk about the MLST results.
+
