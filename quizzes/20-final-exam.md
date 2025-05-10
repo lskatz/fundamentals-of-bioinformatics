@@ -184,3 +184,110 @@ Why do we care about MLST?
 - It gives us an idea of whether any two isolates are related.
 - It allows us to completely describe a genome. Because it is totally redundant with the information in the genome assembly, we can throw it out and just talk about the MLST results.
 
+## Metagenomics
+
+### Question 18
+
+Download the 8G minikraken database as listed at https://benlangmead.github.io/aws-indexes/k2. It is named 'Standard-8'.
+
+Uncompress it with `tar zxvf filename`.
+
+These were my commands in 2022, for example:
+
+```
+mkdir kraken8GB
+cd kraken8GB
+wget https://genome-idx.s3.amazonaws.com/kraken/k2_standard_08gb_20220926.tar.gz
+tar zxvf k2_standard_08gb_20220926.tar.gz
+cd ..
+```
+
+What is one filename that gets decompressed from this tgz file?
+
+- `hash.k2d.tar.gz`
+- `scaffolds.fasta`
+- `scaffolds.fastq.gz`
+- `hash.k2d`
+
+### Question 19
+
+After having installed kraken2, what is a valid command to run it on SRR135547 and get a report into SRR135547.kraken.report? We assume the database was decompressed into a directory `$DB`.
+
+- `kraken2 --db $DB --threads 4 --report SRR135547.kraken.report --gzip-compressed reads/SRR135547_1.fastq.gz reads/SRR135547_2.fastq.gz`
+- `kraken2 reads/SRR135547_1.fastq.gz reads/SRR135547_2.fastq.gz > SRR135547.kraken.report`
+- `kraken2 --db $DB --threads 4 --gzip-compressed reads/SRR135547_1.fastq.gz reads/SRR135547_2.fastq.gz > SRR135547.kraken.report`
+- `kraken2 reads/SRR135547_1.fastq.gz reads/SRR135547_2.fastq.gz`
+
+#### Question 20 (1 point)
+
+The algorithm behind Kraken2 is based on kmer analysis. What does the k in kmer mean?
+
+- The length of the DNA sequence slices, measured in number of nucleotides
+- The average read length, measured in number of nucleotides
+- Kraken2
+- Kraken
+
+### Question 21
+
+If k is 7 and the DNA sequence is the following, what are the two kmers you would see? The first answer will have AA in it and the second answer will have GG.
+
+**DNA Sequence:** AACCTTGG
+
+- Blank #1: `_____`
+- Blank #2: `_____`
+
+### Question 22
+
+All of these genomes are supposed to be *Vibrio cholerae*. But Kraken2 will give us a nuanced answer. Which two genomes have contamination greater than 5% at the genus level? Use the SRR accession in numerical order for your answer. Include the "SRR" in the answer.
+
+You can get these answers directly using the `*.kraken.report` files. However, you can visually inspect these results using the following tutorial: https://telatin.github.io/microbiome-bioinformatics/Kraken-to-Krona/
+
+In short, to create the visualization, run `ktImportTaxonomy -t 5 -m 3 -o multi-krona.html *.kraken.report`. Then, load the file `multi-krona.html` into your web browser.
+
+`_____`  
+`_____`
+
+## Genomic Epidemiology
+
+### Question 23
+
+We will see how the genomes cluster by running Mashtree. What does Mashtree do?
+
+- Runs MLST to cluster genomes
+- Creates a phylogeny to cluster genomes
+- Creates a dendrogram to cluster genomes
+- Runs assembly to cluster genomes
+
+### Question 24
+
+What is a valid mashtree command for us to run on our assembly and reads and to get a tree into `mashtree.dnd`? Usually you only run Mashtree on R1 and not R2 if paired end.
+
+- `mashtree 2010EL-1786.fasta --indir reads > mashtree.dnd`
+- `mashtree 2010EL-1786.fasta --R1 *_1.fastq.gz --s SRR772254.fastq.gz SRR772256.fastq.gz SRR772892.fastq.gz --numcpus 4 > mashtree.dnd`
+- `mashtree 2010EL-1786.fasta -c config > mashtree.dnd`
+- `mashtree 2010EL-1786.fasta *_1.fastq.gz SRR772254.fastq.gz SRR772256.fastq.gz SRR772892.fastq.gz --numcpus 4 > mashtree.dnd`
+
+### Question 25
+
+Name a visualization program we have discussed, that would help you see the mashtree output, a newick file.
+
+- MEGA
+- Firefox
+- IGV
+- Krona
+
+### Question 26
+
+Which genome clusters more closely with 2010EL-1786?
+
+- K12 (*E. coli*)
+- HE39 (Environmental genome)
+- VC-14 (Nepalese outbreak)
+
+### Question 27
+
+Which genome has the same ST as 2010EL-1786?
+
+- K12
+- HE39
+- VC-14
