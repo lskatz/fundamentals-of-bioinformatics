@@ -50,8 +50,8 @@ Suggested readings refer to the Christensen textbook unless otherwise noted.
 | 10 | [multiple_sequence_alignment](files/10-multiple_sequence_alignment.pptx) | Chapter 6 | [quiz](quizzes/10-multiple_sequence_alignment.md) |
 | 11 | [phylogeny](files/11-phylogeny.pptx) | Chapter 4 | [quiz](quizzes/11-phylogeny.md) |
 | 12 | [genomic_epidemiology](files/12-genomic_epidemiology.pptx) | Chapter 11; [Stevens et al 2022](https://doi.org/10.4315/JFP-21-437) | [quiz](quizzes/12-genomic_epidemiology.md) |
-| 13 | amplicon metagenomics | [pptx not shown] Chapter 9 |  |
-| 14 | [shotgunmetagenomics](files/14-metagenomics.pptx) | Chapter 9 | [quiz](quizzes/14-metagenomics.md) |
+| 13 | amplicon metagenomics | [pptx not shown] Chapter 9 |  [quiz](quizzes/13-amplicon-metagenomics.md) |
+| 14 | [shotgunmetagenomics](files/14-metagenomics.pptx) | Chapter 9 | [quiz](quizzes/14-shotgun-metagenomics.md) |
 
 ## License
 
