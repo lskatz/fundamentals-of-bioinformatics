@@ -15,7 +15,7 @@ In addition to bioinformatics, this course will also touch on how bioinformatics
 ## Additional resources
 
 * Christensen, [Introduction to Bioinformatics in Microbiology](https://a.co/d/6LzF0Oe), 2023 (second edition)
-* Rob Edward’s Computational Genomics Manual 
+* Rob Edward’s Computational Genomics Manual
   * Website <https://linsalrob.github.io/ComputationalGenomicsManual/>
   * Rob Edward’s YouTube playlist <https://www.youtube.com/playlist?list=PLpPXw4zFa0uLMHwSZ7DMeLGjIUgo1IBbn>
 * Many more resources for the curious: <https://github.com/lskatz/awesome-bioinformatics-education>
@@ -36,23 +36,25 @@ Additionally, you might find it helpful to install a proper text editor. I recom
 
 Suggested readings refer to the Christensen textbook unless otherwise noted.
 
-| Week | Title | Readings | Quiz |
-|----------|---------|----------|--------|
-| 01 | [intro_to_the_course](files/01-intro_to_the_course.pptx) | Chapter 1, section 1 | - |
-| 02 | [worldwide_databases](files/02-worldwide_databases.pptx) | Chapter 3 | [quiz](quizzes/02-worldwide_databases.md) |
-| 03 | [introToLinux](files/03-jsw_introToLinux.pptx) | Chapter 1, sections 3 through 5. [UCDavis bootcamp](files/03-Linux_boot_camp.pdf). | [quiz](quizzes/03-jsw_introToLinux.md) |
-| 04 | [sequencing_formats](files/04-sequencing_formats.pptx) | Chapter 2, section 4 | [quiz](quizzes/04-sequencing_formats.md) |
-| 05 | [installation_of_software](files/05-installation_of_software.pptx) | <https://astrobiomike.github.io/unix/conda-intro>  | [quiz](quizzes/05-installation_of_software.md) | 
-| 06 | [sequencing_instruments](files/06-sequencing_instruments.pptx) | Chapter 2 | [quiz](quizzes/06-sequencing_instruments.md) |
-| 07 | [assembly](files/07-assembly.pptx) | Chapter 2, sections 2-3 | [quiz](quizzes/07-assembly.md) |
-| 08 | [Genome_annotation_2024_revised](files/08-Genome_annotation_2024_revised.pptx) | Chapter 2, section 5 | [quiz](quizzes/08-Genome_annotation_2024_revised.md) |
-| 09 | [sequence_querying](files/09-sequence_querying.pptx) | Chapter 4 | [quiz](quizzes/09-sequence_querying.md) |
-| 10 | [multiple_sequence_alignment](files/10-multiple_sequence_alignment.pptx) | Chapter 6 | [quiz](quizzes/10-multiple_sequence_alignment.md) |
-| 11 | [phylogeny](files/11-phylogeny.pptx) | Chapter 4 | [quiz](quizzes/11-phylogeny.md) |
-| 12 | [genomic_epidemiology](files/12-genomic_epidemiology.pptx) | Chapter 11; [Stevens et al 2022](https://doi.org/10.4315/JFP-21-437) | [quiz](quizzes/12-genomic_epidemiology.md) |
-| 13 | amplicon metagenomics [pptx not available] | Chapter 9 |  [quiz](quizzes/13-amplicon-metagenomics.md) |
-| 14 | [shotgun metagenomics](files/14-metagenomics.pptx) | Chapter 9 | [quiz](quizzes/14-shotgun-metagenomics.md) |
-| 15 | Final exam [no pptx] | | [final](quizzes/20-final-exam.md) |
+| Week | Title | Readings | Quiz | Recorded lecture[^1] |
+|----------|---------|----------|--------|------|
+| 01 | [intro_to_the_course](files/01-intro_to_the_course.pptx) | Chapter 1, section 1 | - | |
+| 02 | [worldwide_databases](files/02-worldwide_databases.pptx) | Chapter 3 | [quiz](quizzes/02-worldwide_databases.md) | |
+| 03 | [introToLinux](files/03-jsw_introToLinux.pptx) | Chapter 1, sections 3 through 5. [UCDavis bootcamp](files/03-Linux_boot_camp.pdf). | [quiz](quizzes/03-jsw_introToLinux.md) | [Sep 8, 2022](https://youtu.be/DcnAPJxVUSQ) |
+| 04 | [sequencing_formats](files/04-sequencing_formats.pptx) | Chapter 2, section 4 | [quiz](quizzes/04-sequencing_formats.md) | [Sep 14, 2023](https://youtu.be/6FAWdcIRYwY) |
+| 05 | [installation_of_software](files/05-installation_of_software.pptx) | <https://astrobiomike.github.io/unix/conda-intro>  | [quiz](quizzes/05-installation_of_software.md) | |
+| 06 | [sequencing_instruments](files/06-sequencing_instruments.pptx) | Chapter 2 | [quiz](quizzes/06-sequencing_instruments.md) | [Oct 2, 2024](https://youtu.be/W3YYlvBR0MY) |
+| 07 | [assembly](files/07-assembly.pptx) | Chapter 2, sections 2-3 | [quiz](quizzes/07-assembly.md) | [Feb 22, 2023](https://youtu.be/M45mj0aM4Hk) |
+| 08 | [Genome_annotation_2024_revised](files/08-Genome_annotation_2024_revised.pptx) | Chapter 2, section 5 | [quiz](quizzes/08-Genome_annotation_2024_revised.md) | [Gene prediction - Feb 22, 2023](https://youtu.be/3Fy7l7GrpMY) |
+| 09 | [sequence_querying](files/09-sequence_querying.pptx) | Chapter 4 | [quiz](quizzes/09-sequence_querying.md) | [Nov 11, 2022](https://youtu.be/1CXtUQI6Q5w) |
+| 10 | [multiple_sequence_alignment](files/10-multiple_sequence_alignment.pptx) | Chapter 6 | [quiz](quizzes/10-multiple_sequence_alignment.md) | |
+| 11 | [phylogeny](files/11-phylogeny.pptx) | Chapter 4 | [quiz](quizzes/11-phylogeny.md) | |
+| 12 | [genomic_epidemiology](files/12-genomic_epidemiology.pptx) | Chapter 11; [Stevens et al 2022](https://doi.org/10.4315/JFP-21-437) | [quiz](quizzes/12-genomic_epidemiology.md) | |
+| 13 | amplicon metagenomics [pptx not available] | Chapter 9 |  [quiz](quizzes/13-amplicon-metagenomics.md) | |
+| 14 | [shotgun metagenomics](files/14-metagenomics.pptx) | Chapter 9 | [quiz](quizzes/14-shotgun-metagenomics.md) | |
+| 15 | Final exam [no pptx] | | [final](quizzes/20-final-exam.md) | [Apr 8, 2025](https://youtu.be/Yf2-wzu4-uk) |
+
+[^1]: Access given by request; the recording was not necessarily made at the same time of the slides, in 2025, and so material might be different.
 
 ## License
 

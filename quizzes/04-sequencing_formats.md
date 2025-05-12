@@ -96,4 +96,3 @@ _Choose 3 correct answers_.
 - [ ] Number of reads sequenced
 - [ ] Genome length
 - [ ] The phred score
-
