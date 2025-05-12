@@ -54,7 +54,7 @@ Suggested readings refer to the Christensen textbook unless otherwise noted.
 | 14 | [shotgun metagenomics](files/14-metagenomics.pptx) | Chapter 9 | [quiz](quizzes/14-shotgun-metagenomics.md) | |
 | 15 | Final exam [no pptx] | | [final](quizzes/20-final-exam.md) | [Apr 8, 2025](https://youtu.be/Yf2-wzu4-uk) |
 
-[^1]: Access given by request; the recording was not necessarily made at the same time of the slides, in 2025, and so material might be different.
+[^1]: Access given by request; the recording was not necessarily made at the same time of the slides, in 2025, and so material might be different. The playlist of recordings can be found at <https://www.youtube.com/playlist?list=PL_G_azApeLUxLEdgw-TicGN83OlkmqnIb>.
 
 ## License
 
