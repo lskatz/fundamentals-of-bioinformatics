@@ -56,6 +56,11 @@ Suggested readings refer to the Christensen textbook unless otherwise noted.
 
 [^1]: Access given by request; the recording was not necessarily made at the same time of the slides, in 2025, and so material might be different. The playlist of recordings can be found at <https://www.youtube.com/playlist?list=PL_G_azApeLUxLEdgw-TicGN83OlkmqnIb>.
 
+## 📈 Track Your Progress!
+
+Want to mark your journey through this course?  
+[Create a Progress Tracker Issue](https://github.com/lskatz/fundamentals-of-bioinformatics/issues/new?assignees=&labels=progress&template=progress-tracker.md&title=%5BProgress%5D+@yourusername) and check off each topic as you go!
+
 ## License
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/lskatz/fundamentals-of-bioinformatics">Fundamentals of Bioinformatics</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://lskatz.github.io">Lee Katz</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution-NonCommercial 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""></a></p>
